@@ -18,7 +18,6 @@ release.properties
 # Arquivos de logs e relatórios
 *.log
 *.html
-*.xml
 *.json
 
 # Pasta de relatórios
