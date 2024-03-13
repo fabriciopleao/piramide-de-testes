@@ -1,6 +1,6 @@
-# Framework para automatizar testes de UI, API e Testes Unit·rios
+# Framework para automatizar testes de UI, API e Testes Unit√°rios
 
-Este projeto executa testes unit·rios em um mÈtodo de login de usu·rio com JUNIT
+Este projeto executa testes unit√°rios em um m√©todo de login de usu√°rio com JUNIT
 Este projeto executa testes de API nos endpoint do reqres.in com Restassured
 Este projeto executa testes de UI no site saucedemo.com com Selenium
 
@@ -10,17 +10,18 @@ Este projeto executa testes de UI no site saucedemo.com com Selenium
 - JUnit
 - Cucumber
 
-## ConfiguraÁ„o do ambiente
-Para executar esse projeto È necess·rio as configuraÁıes das vari·veis de ambiente 
+## Configura√ß√£o do ambiente
+Para executar esse projeto √© necess√°rio as configura√ß√µes das vari√°veis de ambiente 
 JDK e Maven
 
 ## Como executar
-1. Clone este repositÛrio em sua m·quina local.
+1. Clone este reposit√≥rio em sua m√°quina local.
 2. Abra o projeto em uma IDE ou no Terminal
 3. Execute os comandos abaixo
 
-Executar os testes API e Unit·rio
 
+Executar os testes API e Unit√°rio
+```bash
 mvn test
 
 
