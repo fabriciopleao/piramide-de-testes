@@ -20,7 +20,7 @@ JDK e Maven
 3. Execute os comandos abaixo
 
 Executar os testes API e Unitário
-```bash
+
 mvn test
 
 
