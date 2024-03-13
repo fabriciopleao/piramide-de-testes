@@ -21,10 +21,10 @@ JDK e Maven
 
 
 Executar os testes API e Unitário
-```bash
-mvn test
+
+    mvn test
 
 
 Executar os testes de UI
-```bash
-mvn test -Dtest=Executa
+
+    mvn test -Dtest=Executa
