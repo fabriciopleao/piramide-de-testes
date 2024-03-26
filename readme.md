@@ -7,6 +7,7 @@ Este projeto executa testes de UI no site saucedemo.com com Selenium
 ## Tecnologias utilizadas
 - Java
 - Selenium
+- Restassured
 - JUnit
 - Cucumber
 
